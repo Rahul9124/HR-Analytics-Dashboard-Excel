@@ -53,8 +53,10 @@ Outcomes
 - Younger employees (25–35) and lower salary brackets show higher attrition trends
 - Dashboard design emphasizes clarity and management usability
 
-  Project Structure
-📸 Dashboard Preview 
+Project Structure
+ Dashboard Preview
+[Dashboard Screenshot](HR ANALYTICS DASHBOARD\Dashboard.png)
+ 
 
  License
 This project is licensed under the  
