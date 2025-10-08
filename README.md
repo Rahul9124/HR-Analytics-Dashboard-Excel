@@ -57,13 +57,6 @@ Project Structure
  Dashboard Preview
 [Dashboard Screenshot](HR ANALYTICS DASHBOARD\Dashboard.png)
  
-
- License
-This project is licensed under the  
-Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
-You may view, share, and learn from this dashboard, but not use it for commercial purposes.
- (https://creativecommons.org/licenses/by-nc/4.0/)
-
  Author
 Rahul Thakre 
 Nagpur, India  , Electrical Engineering , Aspiring Data Analyst  
